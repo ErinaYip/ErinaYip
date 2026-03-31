@@ -2,6 +2,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="65%" valign="top">
+         <h1 align="center">Hi there 👋</h1>
          <pre>
          ██████████            ███                      
          ▒▒███▒▒▒▒▒█           ▒▒▒                       
@@ -13,7 +14,7 @@
          ▒▒▒▒▒▒▒▒▒▒ ▒▒▒▒▒     ▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒▒▒ 
          </pre>
          <p align="center">
-                  <img src="https://readme-typing-svg.demolab.com?font=Lavishly+Yours&weight=1000&size=22&duration=3000&pause=800&color=F712A1&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
+                  <img src="https://readme-typing-svg.demolab.com?font=Maple+Mono&weight=1000&size=22&duration=3000&pause=800&color=F712A1&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
          </p>
     </td>
     <td width="35%" align="center" valign="top">
