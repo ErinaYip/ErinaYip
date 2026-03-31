@@ -1,6 +1,8 @@
-# Hi there, I'm Erina Yip 👋
 
-<pre>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="65%" valign="top">
+         <pre>
          ██████████            ███                      
          ▒▒███▒▒▒▒▒█           ▒▒▒                       
           ▒███  █ ▒  ████████  ████  ████████    ██████  
@@ -9,10 +11,16 @@
           ▒███ ▒   █ ▒███      ▒███  ▒███ ▒███  ███▒▒███ 
           ██████████ █████     █████ ████ █████▒▒████████
          ▒▒▒▒▒▒▒▒▒▒ ▒▒▒▒▒     ▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒▒▒ 
-</pre>
-
-<img src="https://readme-typing-svg.demolab.com?font=Maple+Mono+Bold&weight=1000&size=22&pause=1000&color=F712A1&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
-
+         </pre>
+         <p align="center">
+                  <img src="https://readme-typing-svg.demolab.com?font=Lavishly+Yours&weight=1000&size=22&duration=3000&pause=800&color=F712A1&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
+         </p>
+    </td>
+    <td width="35%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/ErinaYip/ErinaYip/refs/heads/main/309.png" width="90%" style="border-radius: 15px;" alt="My Image" />
+    </td>
+  </tr>
+</table>
 
 ---
 
