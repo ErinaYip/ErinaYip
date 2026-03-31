@@ -85,3 +85,5 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
 </div>
+
+Avatar from [pixiv](https://www.pixiv.net/artworks/129941652) by [laneigu](https://www.pixiv.net/users/25944617)
