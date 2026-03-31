@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h2 id="Languages" style="margin-bottom:8px;">Languages
-    <a class="anchor" href="#Languages">
-        <span class="anchor-icon" data-pagefind-ignore="">#</span></a></h2>
+## Languages
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;">
     <img style="border-radius:0;cursor:default;margin-bottom:4px;margin-top:4px;" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=C&amp;color=222222&amp;logo=C&amp;logoColor=A8B9CC&amp;label=">
@@ -41,9 +39,7 @@ Here are some ideas to get you started:
     <img style="border-radius:0;cursor:default;margin-bottom:4px;margin-top:4px;" src="">
 </div>
 
-<h2 id="Devices" style="margin-bottom:8px;">Devices
-    <a class="anchor" href="#Devices">
-        <span class="anchor-icon" data-pagefind-ignore="">#</span></a></h2>
+## Devices
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;">
     <img style="border-radius:0;cursor:default;margin-bottom:4px;margin-top:4px;" src="https://img.shields.io/static/v1?style=for-the-badge&message=nixos&color=5277C3&logo=nixos&logoColor=FFFFFF&label=">
@@ -62,9 +58,7 @@ Here are some ideas to get you started:
     <img style="border-radius:0;cursor:default;margin-bottom:4px;margin-top:4px;" src="https://img.shields.io/static/v1?style=for-the-badge&message=R9-9955HX3D&color=ED1C24&logo=amd&logoColor=FFFFFF&label=">
 </div>
 
-<h2 id="Development" style="margin-bottom:8px;">Development
-    <a class="anchor" href="#Development">
-        <span class="anchor-icon" data-pagefind-ignore="">#</span></a></h2>
+## Development
 
 <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;">
     <img style="border-radius:0;cursor:default;margin-bottom:4px;margin-top:4px;" src="https://img.shields.io/static/v1?style=for-the-badge&message=gimp&color=8C8073&logo=gimp&logoColor=FFFFFF&label=">
@@ -78,7 +72,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 <!-- GitHub 连续提交天数 (Streak) 卡片 -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErinaYip&theme=radical&hide_border=true" alt="ErinaYip's GitHub Streak" />
