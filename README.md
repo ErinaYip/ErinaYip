@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- 动态打字机特效 SVG -->
 <div align="center">
-  <img src="https://readme-typing-svgGitHub 动态统计.demolab.com?font=Maple+Mono+Blod&weight=1000&size=22&pause=1000&color=F712A1&center=true&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Maple+Mono+Blod&weight=1000&size=22&pause=1000&color=F712A1&center=true&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
 </div>
 
 
