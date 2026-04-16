@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td width="35%" align="center" valign="top">
-        <img src="https://raw.githubusercontent.com/ErinaYip/ErinaYip/refs/heads/main/309.png" width="90%" style="border-radius: 15px;" alt="My Image" />
+        <img src="assets/309.png" width="90%" style="border-radius: 15px;" alt="My Image" />
       </td>
       <td width="65%" valign="center">
         <img src="https://readme-typing-svg.demolab.com?font=Maple+Mono&weight=1000&size=22&duration=3000&pause=800&color=908580&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
