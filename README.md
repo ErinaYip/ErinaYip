@@ -1,32 +1,19 @@
-
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="65%" valign="top">
-         <pre>
-         ██████████            ███                      
-         ▒▒███▒▒▒▒▒█           ▒▒▒                       
-          ▒███  █ ▒  ████████  ████  ████████    ██████  
-          ▒██████   ▒▒███▒▒███▒▒███ ▒▒███▒▒███  ▒▒▒▒▒███ 
-          ▒███▒▒█    ▒███ ▒▒▒  ▒███  ▒███ ▒███   ███████ 
-          ▒███ ▒   █ ▒███      ▒███  ▒███ ▒███  ███▒▒███ 
-          ██████████ █████     █████ ████ █████▒▒████████
-         ▒▒▒▒▒▒▒▒▒▒ ▒▒▒▒▒     ▒▒▒▒▒ ▒▒▒▒ ▒▒▒▒▒  ▒▒▒▒▒▒▒▒ 
-         </pre>
-         <p align="center">
-                  <img src="https://readme-typing-svg.demolab.com?font=Maple+Mono&weight=1000&size=22&duration=3000&pause=800&color=F712A1&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
-         </p>
-    </td>
-    <td width="35%" align="center" valign="top">
-      <img src="https://raw.githubusercontent.com/ErinaYip/ErinaYip/refs/heads/main/309.png" width="90%" style="border-radius: 15px;" alt="My Image" />
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
+<div align="center">
+  <table style="border: none; border-collapse: collapse; width: 100%;">
+    <tr>
+      <td width="35%" align="center" valign="top">
+        <img src="https://raw.githubusercontent.com/ErinaYip/ErinaYip/refs/heads/main/309.png" width="90%" style="border-radius: 15px;" alt="My Image" />
+      </td>
+      <td width="65%" valign="center">
+        <img src="Text_ErinaYip.svg" alt="ErinaYip" width="80%">
+        <img src="https://readme-typing-svg.demolab.com?font=Maple+Mono&weight=1000&size=22&duration=3000&pause=800&color=908580&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
+  
   <img src="github-metrics.svg" alt="Metrics" width="80%">
-</p>
+</div>
+  
 
 ---
 
