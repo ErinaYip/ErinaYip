@@ -27,6 +27,7 @@ jobs:
           # Options
           user: ErinaYip
           template: classic
+          config_display: columns
           config_timezone: Asia/Shanghai
           plugin_fortune: yes
           plugin_isocalendar: yes
