@@ -2,7 +2,6 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-         <h1 align="center">Hi there 👋</h1>
          <pre>
          ██████████            ███                      
          ▒▒███▒▒▒▒▒█           ▒▒▒                       
@@ -22,6 +21,12 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="80%">
+</p>
 
 ---
 
