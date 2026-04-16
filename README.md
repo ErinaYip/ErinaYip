@@ -6,8 +6,8 @@
       </td>
       <td width="65%" valign="center">
         <img src="https://readme-typing-svg.demolab.com?font=Maple+Mono&weight=1000&size=22&duration=3000&pause=800&color=908580&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
-        <img src="Text_ErinaYip.svg" alt="ErinaYip" width="80%">
-        <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="80%">
+        <img src="assets/Text_ErinaYip.svg" alt="ErinaYip" width="80%">
+        <img src="assets/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="80%">
       </td>
     </tr>
   </table>
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td>
-      <h1>📚 Languages</h1>
+      <h3>📚 Languages</h3>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=">
@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LUA&color=2C2D72&logo=lua&logoColor=FFFFFF&label=">
     </td>
     <td>
-      <h1>🐧 OS</h1>
+      <h3>🐧 OS</h3>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=nixos&color=5277C3&logo=nixos&logoColor=FFFFFF&label=">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=archlinux&color=1793D1&logo=archlinux&logoColor=FFFFFF&label=">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=cachyos&color=1793D1&logo=linux&logoColor=FFFFFF&label=">
@@ -50,7 +50,7 @@
   </tr>
   <tr>
     <td>
-      <h1>⚙️ Development</h1>
+      <h3>⚙️ Development</h3>
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Neovim&color=57A143&logo=neovim&logoColor=FFFFFF&label=">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=vim&color=019733&logo=vim&logoColor=FFFFFF&label=">
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=visualstudiocode&logoColor=FFFFFF&label=">
@@ -61,7 +61,7 @@
       <img src="https://img.shields.io/static/v1?style=for-the-badge&message=gimp&color=8C8073&logo=gimp&logoColor=FFFFFF&label=">
     </td>
     <td>
-      <h1>🖥️ Devices</h1>
+      <h3>🖥️ Devices</h3>
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=R9-9955HX3D&color=ED1C24&logo=amd&logoColor=FFFFFF&label=">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Geforce%20RTX%205090&color=009900&logo=nvidia&logoColor=FFFFFF&label=">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=wine&color=800000&logo=wine&logoColor=FFFFFF&label=">
