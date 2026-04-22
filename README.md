@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> 🏠 Moving to Codeberg: [@erina](https://codeberg.org/erina) | Part-time on GitHub.
+
+
+
 <div align="center">
   <table>
     <tr>
