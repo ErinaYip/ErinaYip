@@ -12,7 +12,6 @@
       <td width="65%" valign="center">
         <img src="https://readme-typing-svg.demolab.com?font=Maple+Mono&weight=1000&size=22&duration=3000&pause=800&color=908580&vCenter=true&width=435&lines=That+you+are+here;That+life+exists+and+identity;That+the+powerful+play+goes+on;And+you+may+contribute+a+verse" alt="Typing SVG" />
         <img src="assets/Text_ErinaYip.svg" alt="ErinaYip" width="80%">
-        <img src="assets/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="80%">
       </td>
     </tr>
   </table>
